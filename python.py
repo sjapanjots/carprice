@@ -32,7 +32,3 @@ if st.button("Predict The Car Price"):
 # Footer
 st.markdown("---")
 st.write("Designed and Developed by Piyush Batra")
-
-# Footer
-st.markdown("---")
-st.write("Designed and Developed by Piyush Batra")
